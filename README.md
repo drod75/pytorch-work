@@ -31,6 +31,7 @@ The tutorial can be found here: [https://youtu.be/V_xro1bcAuA?si=EEQZBZGkiK0Y57e
 ### Built With
 
 * [![PyTorch][PyTorch-shield]][PyTorch-url]
+* [![Jupyter][Jupyter-shield]][Jupyter-url]
 
 [PyTorch-shield]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
 [PyTorch-url]: https://pytorch.org/
@@ -41,6 +42,9 @@ The tutorial can be found here: [https://youtu.be/V_xro1bcAuA?si=EEQZBZGkiK0Y57e
 [watchers-url]: https://github.com/drod75/pytorch-work/watchers
 [forks-shield]: https://img.shields.io/github/forks/drod75/pytorch-work.svg?style=for-the-badge
 [forks-url]: https://github.com/drod75/pytorch-work/network/members
+
+[Jupyter-shield]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
