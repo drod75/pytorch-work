@@ -1,0 +1,11 @@
+[project]
+name = "pytorch-work"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.10",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]
